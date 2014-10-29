@@ -1,0 +1,8 @@
+TABOUT.CAPTION=Acerca de ...
+TABOUT.LABEL1.CAPTION=Gestor de pesadas libres
+TABOUT.LABEL2.CAPTION=Versión #: 0.1.0
+Fecha: octubre 2011
+Licencia: GPL/LGPL
+TABOUT.LABEL3.CAPTION=Realizado con Lazarus, IDE para crear aplicaciones gráficas y de consola con Free Pascal. Free Pascal es un compilador Pascal y Object Pascal que corre en Windows, Linux, Mac OS X, FreeBSD y otros.
+TABOUT.LABEL4.CAPTION=www.citilan.com   -     jjpalacios@citilan.com
+TABOUT.LABEL5.CAPTION=http://lazarus.freepascal.org

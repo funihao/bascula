@@ -1,0 +1,452 @@
+msgid "Licencia: GPL/LGPLLicencia: GPL/LGPLLicencia: GPL/LGPLLicencia: GPL/LGPLLicencia: GPL/LGPL"
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: frmmain.rsinfoprint
+msgid ""
+"El vehículo se encuentra en transito.\n"
+"No ha introducido peso de salida.\n"
+"¿Desea imprimir el ticket?\n"
+msgstr ""
+
+#: frmmain.rsinfoweightin
+msgid ""
+"El peso de entrada debe ser un \n"
+"valor positivo y mayor que cero.\n"
+msgstr ""
+
+#: frmmain.rsmatricula
+msgctxt "frmmain.rsmatricula"
+msgid "Matrícula"
+msgstr ""
+
+#: frmmain.rsnotallowed
+msgid "Operación no permitida"
+msgstr ""
+
+#: frmmain.rssavedata
+msgctxt "frmmain.rssavedata"
+msgid "Hay datos sin guardar. ¿Guardar ahora?"
+msgstr ""
+
+#: frmmain.rstitleprint
+msgid "Revise la Información"
+msgstr ""
+
+#: tabout.caption
+msgid "Acerca de ..."
+msgstr ""
+
+#: tabout.label1.caption
+msgid "Gestor de pesadas libres"
+msgstr ""
+
+#: tabout.label2.caption
+msgid "Versión #: 0.1.0"
+msgstr ""
+
+#: tabout.label3.caption
+msgid "Realizado con Lazarus, IDE para crear aplicaciones gráficas y de consola con Free Pascal. Free Pascal es un compilador Pascal y Object Pascal que corre en Windows, Linux, Mac OS X, FreeBSD y otros."
+msgstr ""
+
+#: tabout.label4.caption
+msgid "www.citilan.com   -     jjpalacios@citilan.com"
+msgstr ""
+
+#: tabout.label5.caption
+msgid "http://lazarus.freepascal.org"
+msgstr ""
+
+#: tconfigform.bcancel.caption
+msgctxt "TCONFIGFORM.BCANCEL.CAPTION"
+msgid "Cancelar"
+msgstr ""
+
+#: tconfigform.bok.caption
+msgctxt "TCONFIGFORM.BOK.CAPTION"
+msgid "Aceptar"
+msgstr ""
+
+#: tconfigform.caption
+msgctxt "TCONFIGFORM.CAPTION"
+msgid "Configurar"
+msgstr ""
+
+#: tconfigform.cbbauds.text
+msgctxt "TCONFIGFORM.CBBAUDS.TEXT"
+msgid "9600"
+msgstr ""
+
+#: tconfigform.cbbitstop.text
+msgctxt "TCONFIGFORM.CBBITSTOP.TEXT"
+msgid "1"
+msgstr ""
+
+#: tconfigform.cbcontrol.text
+msgid "Hardware"
+msgstr ""
+
+#: tconfigform.cbdatabit.text
+msgctxt "TCONFIGFORM.CBDATABIT.TEXT"
+msgid "8"
+msgstr ""
+
+#: tconfigform.cbparity.text
+msgctxt "TCONFIGFORM.CBPARITY.TEXT"
+msgid "Ninguno"
+msgstr ""
+
+#: tconfigform.cbport.text
+msgid "COM4"
+msgstr ""
+
+#: tconfigform.ebdbf.text
+msgid "..\\datos\\pesadas.dbf"
+msgstr ""
+
+#: tconfigform.ebprinter.buttonhint
+msgid "Pulse para abrir dialogo"
+msgstr ""
+
+#: tconfigform.groupbox1.caption
+msgid "Configuración Lector"
+msgstr ""
+
+#: tconfigform.groupbox2.caption
+msgid "Otros ..."
+msgstr ""
+
+#: tconfigform.label1.caption
+msgid "Archivo Datos:"
+msgstr ""
+
+#: tconfigform.label2.caption
+msgid "Impresora:"
+msgstr ""
+
+#: tconfigform.label3.caption
+msgid "&Puerto:"
+msgstr ""
+
+#: tconfigform.label4.caption
+msgid "Bits de &datos:"
+msgstr ""
+
+#: tconfigform.label5.caption
+msgid "Paridad:"
+msgstr ""
+
+#: tconfigform.label6.caption
+msgid "Bits de parada:"
+msgstr ""
+
+#: tconfigform.label7.caption
+msgid "Control de Flujo:"
+msgstr ""
+
+#: tconfigform.label8.caption
+msgid "Bits por Segundo:"
+msgstr ""
+
+#: tmainform.acancel.caption
+msgid "&Cancelar"
+msgstr ""
+
+#: tmainform.aclose.caption
+msgid "&Cerrar"
+msgstr ""
+
+#: tmainform.adelete.caption
+msgid "&Borrar"
+msgstr ""
+
+#: tmainform.aedit.caption
+msgid "&Editar"
+msgstr ""
+
+#: tmainform.afirst.caption
+msgid "&Primero"
+msgstr ""
+
+#: tmainform.ainsert.caption
+msgid "&Insertar"
+msgstr ""
+
+#: tmainform.alast.caption
+msgid "&Ultimo"
+msgstr ""
+
+#: tmainform.anew.caption
+msgid "&Nuevo"
+msgstr ""
+
+#: tmainform.anext.caption
+msgid "&Próximo"
+msgstr ""
+
+#: tmainform.aopen.caption
+msgid "&Abrir"
+msgstr ""
+
+#: tmainform.apost.caption
+msgid "&Guardar"
+msgstr ""
+
+#: tmainform.aprint.caption
+msgid "Im&primir"
+msgstr ""
+
+#: tmainform.aprior.caption
+msgid "&Anterior"
+msgstr ""
+
+#: tmainform.aquit.caption
+msgid "&Salir"
+msgstr ""
+
+#: tmainform.arefresh.caption
+msgid "&Actualizar"
+msgstr ""
+
+#: tmainform.bnew.caption
+msgid "Nueva Pesada"
+msgstr ""
+
+#: tmainform.bnew.hint
+msgctxt "TMAINFORM.BNEW.HINT"
+msgid "Pulse 'ESC' para cancelar"
+msgstr ""
+
+#: tmainform.bprint.caption
+msgid "Imprimir Ticket"
+msgstr ""
+
+#: tmainform.caption
+msgctxt "TMAINFORM.CAPTION"
+msgid "Gestor de Pesadas Libres"
+msgstr ""
+
+#: tmainform.earticulo.hint
+msgctxt "TMAINFORM.EARTICULO.HINT"
+msgid "Pulse 'ESC' para cancelar"
+msgstr ""
+
+#: tmainform.ecode.hint
+msgctxt "TMAINFORM.ECODE.HINT"
+msgid "Pulse 'ESC' para cancelar"
+msgstr ""
+
+#: tmainform.efecha.hint
+msgid "La fecha se introduce automáticamente"
+msgstr ""
+
+#: tmainform.ematricula.hint
+msgctxt "TMAINFORM.EMATRICULA.HINT"
+msgid "Pulse 'ESC' para cancelar"
+msgstr ""
+
+#: tmainform.etown.hint
+msgctxt "TMAINFORM.ETOWN.HINT"
+msgid "Pulse 'ESC' para cancelar"
+msgstr ""
+
+#: tmainform.ezip.hint
+msgctxt "TMAINFORM.EZIP.HINT"
+msgid "Pulse 'ESC' para cancelar"
+msgstr ""
+
+#: tmainform.e_cli.hint
+msgctxt "TMAINFORM.E_CLI.HINT"
+msgid "Pulse 'ESC' para cancelar"
+msgstr ""
+
+#: tmainform.e_hentrada.hint
+msgctxt "TMAINFORM.E_HENTRADA.HINT"
+msgid "Se introduce automáticamente"
+msgstr ""
+
+#: tmainform.e_hsalida.hint
+msgctxt "TMAINFORM.E_HSALIDA.HINT"
+msgid "Se introduce automáticamente"
+msgstr ""
+
+#: tmainform.e_pentrada.hint
+msgctxt "TMAINFORM.E_PENTRADA.HINT"
+msgid "Pulse 'F9' para leer báscula"
+msgstr ""
+
+#: tmainform.e_pneto.hint
+msgid "Se calcula cuando introduzca el peso de salida"
+msgstr ""
+
+#: tmainform.e_psalida.hint
+msgctxt "TMAINFORM.E_PSALIDA.HINT"
+msgid "Pulse 'F9' para leer báscula"
+msgstr ""
+
+#: tmainform.gdba.columns[0].title.caption
+msgctxt "TMAINFORM.GDBA.COLUMNS[0].TITLE.CAPTION"
+msgid "Matrícula"
+msgstr ""
+
+#: tmainform.gdba.columns[10].title.caption
+msgctxt "TMAINFORM.GDBA.COLUMNS[10].TITLE.CAPTION"
+msgid "Código Postal"
+msgstr ""
+
+#: tmainform.gdba.columns[11].title.caption
+msgctxt "TMAINFORM.GDBA.COLUMNS[11].TITLE.CAPTION"
+msgid "Provincia"
+msgstr ""
+
+#: tmainform.gdba.columns[1].title.caption
+msgctxt "TMAINFORM.GDBA.COLUMNS[1].TITLE.CAPTION"
+msgid "Fecha"
+msgstr ""
+
+#: tmainform.gdba.columns[2].title.caption
+msgctxt "TMAINFORM.GDBA.COLUMNS[2].TITLE.CAPTION"
+msgid "Hora Entrada"
+msgstr ""
+
+#: tmainform.gdba.columns[3].title.caption
+msgctxt "TMAINFORM.GDBA.COLUMNS[3].TITLE.CAPTION"
+msgid "Hora Salida"
+msgstr ""
+
+#: tmainform.gdba.columns[4].title.caption
+msgctxt "TMAINFORM.GDBA.COLUMNS[4].TITLE.CAPTION"
+msgid "P. Entrada"
+msgstr ""
+
+#: tmainform.gdba.columns[5].title.caption
+msgctxt "TMAINFORM.GDBA.COLUMNS[5].TITLE.CAPTION"
+msgid "P. Salida"
+msgstr ""
+
+#: tmainform.gdba.columns[6].title.caption
+msgctxt "TMAINFORM.GDBA.COLUMNS[6].TITLE.CAPTION"
+msgid "P. Neto"
+msgstr ""
+
+#: tmainform.gdba.columns[7].title.caption
+msgctxt "TMAINFORM.GDBA.COLUMNS[7].TITLE.CAPTION"
+msgid "Artículo"
+msgstr ""
+
+#: tmainform.gdba.columns[8].title.caption
+msgctxt "TMAINFORM.GDBA.COLUMNS[8].TITLE.CAPTION"
+msgid "Código P."
+msgstr ""
+
+#: tmainform.gdba.columns[9].title.caption
+msgctxt "TMAINFORM.GDBA.COLUMNS[9].TITLE.CAPTION"
+msgid "Cliente"
+msgstr ""
+
+#: tmainform.learticulo.caption
+msgid "&Artículo"
+msgstr ""
+
+#: tmainform.lefecha.caption
+msgid "&Fecha"
+msgstr ""
+
+#: tmainform.lehentrada.caption
+msgid "Hora Entr."
+msgstr ""
+
+#: tmainform.lehsalida.caption
+msgid "Hora Salid."
+msgstr ""
+
+#: tmainform.lematricula.caption
+msgid "&Matrícula"
+msgstr ""
+
+#: tmainform.lestreet.caption
+msgid "Código"
+msgstr ""
+
+#: tmainform.letown.caption
+msgid "&Provincia"
+msgstr ""
+
+#: tmainform.lezip.caption
+msgid "&Código Postal"
+msgstr ""
+
+#: tmainform.le_cli.caption
+msgctxt "TMAINFORM.LE_CLI.CAPTION"
+msgid "Cliente"
+msgstr ""
+
+#: tmainform.le_pentrada.caption
+msgid "P. &Entrada"
+msgstr ""
+
+#: tmainform.le_pneto.caption
+msgid "P. &Neto"
+msgstr ""
+
+#: tmainform.le_psalida.caption
+msgid "P. &Salida"
+msgstr ""
+
+#: tmainform.lpeso.caption
+msgctxt "TMAINFORM.LPESO.CAPTION"
+msgid "24.456"
+msgstr ""
+
+#: tmainform.lpeso.hint
+msgctxt "TMAINFORM.LPESO.HINT"
+msgid "Pulse 'F9' para leer báscula"
+msgstr ""
+
+#: tmainform.menuitem2.caption
+msgid "Vista preliminar"
+msgstr ""
+
+#: tmainform.menuitem3.caption
+msgid "Configurar página"
+msgstr ""
+
+#: tmainform.mfile.caption
+msgid "&Archivo"
+msgstr ""
+
+#: tmainform.miabout.caption
+msgid "Acerca de..."
+msgstr ""
+
+#: tmainform.miconfig.caption
+msgctxt "TMAINFORM.MICONFIG.CAPTION"
+msgid "Configurar"
+msgstr ""
+
+#: tmainform.miprintsetup.caption
+msgid "Configurar imresora"
+msgstr ""
+
+#: tmainform.miprintsub.caption
+msgid "Im&primir..."
+msgstr ""
+
+#: tmainform.n1.caption
+msgctxt "TMAINFORM.N1.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tmainform.n2.caption
+msgctxt "TMAINFORM.N2.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tmainform.n3.caption
+msgctxt "TMAINFORM.N3.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tmainform.record1.caption
+msgid "&Registro"
+msgstr ""
+
