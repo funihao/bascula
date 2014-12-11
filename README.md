@@ -14,7 +14,8 @@ Adicionalmente tiene otras funcionalidades:
 - Élección de impresora.
 - Configuración del fichero de datos.
 
-.. image:: bascula_screenshot.png
+![Screen shot](docs/img/bascula_screenshot.png "Ventana principal")
+
 
 Requisitos
 ==========
@@ -35,11 +36,7 @@ Paquetes y versiones
 - **Printer4Lazarus 0.5**
 - **DBFLaz 0.1.1**
 
-Deberían estar instaladas por defecto una vez realizada correctamente la instalación de |Lazarus_IDE|.
-
-.. |Lazarus_IDE| raw:: html
-    
-    <a href="http://lazarus.freepascal.org/" target="_blank">Lazarus IDE</a>
+Deberían estar instaladas por defecto una vez realizada correctamente la instalación de [Lazarus_IDE](http://lazarus.freepascal.org/).
 
 
 Librerías adicionales
@@ -47,11 +44,10 @@ Librerías adicionales
 
 - **synapse 4.0**
 
-**|Synapse|** proporciona conectividad por puerto serie. También ofrece concectividad TCP/IP, facilidad que no es usada en este proyecto.
+**[Synapse][1]** proporciona conectividad por puerto serie. También ofrece concectividad TCP/IP, facilidad que no es usada en este proyecto.
 
-.. |Synapse| raw:: html
+[1]: http://www.ararat.cz/synapse/doku.php/download "Synapse"
 
-    <a href="http://www.ararat.cz/synapse/doku.php/download" target="_blank">Synapse</a>
 
 No necesita instalación, simplemente descargala e incorpora los fuentes necesarios al proyecto.
 Si descargas los fuentes desde este repositorio, **Synapse** estará incorporado al proyecto en la implementación de las comunicaciones serie.
