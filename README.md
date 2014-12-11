@@ -65,16 +65,17 @@ Descarga el proyecto desde GitHub, como un archivo zip o  usando la terminal::
 
 Esto descargará el repositorio en el directorio actual.
 
+
 Abre el proyecto
 ----------------
 
-Desde **Lazarus IDE** ve al menú :file:`> Proyecto > Abrir Proyecto ...` o pulsa *ctrl+F11* y abre el archivo de proyecto :file:`bascula.lpi`
+Desde **Lazarus IDE** ve al menú `> Proyecto > Abrir Proyecto ...` o pulsa *ctrl+F11* y abre el archivo de proyecto `bascula.lpi`
 
 
 Internacionalización y localización
------------------------------------
+===================================
 
 Idiomas
-*******
+-------
 
 Esta preparado para usar traducción a otros lenguajes.
