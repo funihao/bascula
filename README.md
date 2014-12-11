@@ -14,7 +14,7 @@ Adicionalmente tiene otras funcionalidades:
 - Élección de impresora.
 - Configuración del fichero de datos.
 
-.. image:: bascula_screenshot.png
+![Screen shot](bascula_screenshot.png "Ventana principal")
 
 Requisitos
 ==========
@@ -49,7 +49,7 @@ Librerías adicionales
 
     http://www.ararat.cz/synapse/doku.php/download
 
-No necesita instalación, simplemente descargalá e incorpora los fuentes necesarios al proyecto.
+No necesita instalación, simplemente descárgala e incorpora los fuentes necesarios al proyecto.
 Si descargas los fuentes desde este repositorio, **Synapse** estará incorporado al proyecto en la implementación de las comunicaciones serie.
 
 
